@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/Desktop/Eldd_Assig/Day8_Assig1/Module.symvers :=  sed 's/ko$$/o/'  /home/sunbeam/Desktop/Eldd_Assig/Day8_Assig1/modules.order | scripts/mod/modpost -m -a    -o /home/sunbeam/Desktop/Eldd_Assig/Day8_Assig1/Module.symvers -e -i Module.symvers -T - 

@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/Desktop/Eldd_Assig/Day8_Assig1/pchar.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sunbeam/Desktop/Eldd_Assig/Day8_Assig1/pchar.ko /home/sunbeam/Desktop/Eldd_Assig/Day8_Assig1/pchar.o /home/sunbeam/Desktop/Eldd_Assig/Day8_Assig1/pchar.mod.o;  true
